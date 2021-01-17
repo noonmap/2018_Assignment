@@ -1,2 +1,5 @@
+## About
+
+## Skills
 - Python
 - OpenGL
